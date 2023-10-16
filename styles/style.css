@@ -82,8 +82,8 @@ p {
 }
 
 .a4-wrapper {
-  width: 210mm;
-  height: 297mm;
+  /* width: 210mm;
+  height: 297mm; */
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
